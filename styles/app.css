@@ -1,0 +1,28 @@
+/* Sticky footer */
+html, body, #__next {
+  height: 100%;
+}
+#__next {
+  display: flex;
+  flex-direction: column;
+}
+.content {
+  flex: 1 0 auto;
+}
+.navbar, footer {
+  flex-shrink: 0;
+}
+
+/* Reset font weights */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+}
+
+/* Styling */
+body {
+  color: #fff;
+  background-color: #000;
+}
+.user-card .card {
+  background-color: transparent;
+}
