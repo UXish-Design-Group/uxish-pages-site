@@ -26,3 +26,24 @@ body {
 .user-card .card {
   background-color: transparent;
 }
+.__text-yellow {
+  color: #fcc803;
+}
+.__onhover-text-yellow:hover {
+  color: #fcc803 !important;
+}
+
+/* User card filters */
+.has-filter {
+  position: relative;
+}
+.has-filter .img-filter {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.has-filter:hover .img-filter {
+  display: block;
+}

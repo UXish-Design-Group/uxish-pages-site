@@ -10,7 +10,7 @@ function About() {
 
   return (
     <section className="py-5">
-      <h4 className="mb-4">Who We Are</h4>
+      <h4 className="mb-4 __text-yellow">Who We Are</h4>
       {chunks.map(chunk => (
         <div className="row">
           {chunk.map(user => (

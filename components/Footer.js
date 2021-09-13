@@ -13,7 +13,7 @@ function Footer() {
           </div>
           <div className="nav">
             <Link href="https://github.com/UXish-Design-Group">
-              <a className="nav-link px-2 text-muted">
+              <a className="nav-link px-2 text-muted __onhover-text-yellow">
                 <i className="bi bi-github"></i>
               </a>
             </Link>

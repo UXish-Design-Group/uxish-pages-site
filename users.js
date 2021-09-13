@@ -1,6 +1,7 @@
 var users = [
   {
     id: 1,
+    filterUrl: 'images/filters/filter1.png',
     imageUrl: 'images/meet-the-team/jacob-dachenhaus-500x500.png',
     name: 'Jacob Dachenhaus',
     tag: 'Project Manager',
@@ -18,6 +19,7 @@ var users = [
   },
   {
     id: 2,
+    filterUrl: 'images/filters/filter1.png',
     imageUrl: 'images/meet-the-team/austin-boardman-500x500.png',
     name: 'Austin Boardman',
     tag: 'Project Manager',
@@ -35,6 +37,7 @@ var users = [
   },
   {
     id: 3,
+    filterUrl: 'images/filters/filter1.png',
     imageUrl: 'images/meet-the-team/andrew-johnson-500x500.png',
     name: 'Andrew Johnson',
     tag: 'Designer',
@@ -48,6 +51,7 @@ var users = [
   },
   {
     id: 4,
+    filterUrl: 'images/filters/filter1.png',
     imageUrl: 'images/meet-the-team/jared-buls-500x500.png',
     name: 'Jared Buls',
     tag: 'Designer',
@@ -65,6 +69,7 @@ var users = [
   },
   {
     id: 5,
+    filterUrl: 'images/filters/filter1.png',
     imageUrl: 'images/meet-the-team/trey-cluff-500x500.png',
     name: 'Trey Cluff',
     tag: 'Developer',
@@ -82,6 +87,7 @@ var users = [
   },
   {
     id: 6,
+    filterUrl: 'images/filters/filter1.png',
     imageUrl: 'images/meet-the-team/sarah-dunn-500x500.png',
     name: 'Sarah Dunn',
     tag: 'Developer',
@@ -95,6 +101,7 @@ var users = [
   },
   {
     id: 7,
+    filterUrl: 'images/filters/filter1.png',
     imageUrl: 'images/meet-the-team/katie-obrien-500x500.png',
     name: 'Katie O\'Brien',
     tag: 'Developer',
